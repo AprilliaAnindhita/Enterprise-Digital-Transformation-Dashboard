@@ -1,5 +1,7 @@
 ## Enterprise Digital Transformation & Operational Efficiency | Power BI + DAX
 
+<img width="1468" height="829" alt="Enterprise Digital Transformation   Operational Efficiency Dashboard" src="https://github.com/user-attachments/assets/2d6bf498-a761-405d-93a2-1e85785e2fac" />
+
 ### Objective:
 The objective of this project is to analyze operational performance, revenue impact, and the role of digital training across global industries using an interactive Power BI executive dashboard.
 
